@@ -24,7 +24,9 @@
 - [Devika Torvi](https://dtorvi.github.io/GitHubPages/)
   -  Fourth year student majoring in Bioengineering: Bioinformatics in Warren
   -  Obsessed with true crime documentaries
-- [Do heon Kim]()
+- [Do heon Kim](https://stopdatkimmy.github.io/Cse110/)
+  -  Second year student doing Computer Science in ERC
+  -  I am heavily into playing and watching soccer at the moment. Come on you Gunners!@arsenal 
 - [Joseph Burgos]()
 - [Owen Huynh](https://ohuynh21.github.io/cse110_lab1/)
   - Second year CS student at Muir.
