@@ -1,0 +1,23 @@
+{
+  "name": "cse110-sp21-group20",
+  "version": "1.0.0",
+  "description": "Group 20 for CSE 110 Team Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse110-sp23-group20/cse110-sp23-group20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse110-sp23-group20/cse110-sp23-group20/issues"
+  },
+  "homepage": "https://github.com/cse110-sp23-group20/cse110-sp23-group20#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

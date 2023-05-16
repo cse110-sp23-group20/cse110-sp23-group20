@@ -1,0 +1,15 @@
+name: CD-Pipeline.yml
+run-name: ${{ github.actor }} is uploading a commit
+on: [push]
+jobs:
+  run-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+            node-version: '14'
+      - name: Install modules
+        run: yarn
+      - name: Run tests
+        run: yarn test
