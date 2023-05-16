@@ -1,4 +1,4 @@
-ame: run-jest-test
+name: run-jest-test
 run-name: ${{ github.actor }} is learning GitHub Actions
 on: [push]
 jobs:
