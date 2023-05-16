@@ -23,4 +23,4 @@ jobs:
       - name: Run Tests
         run: |
           npm install --save-dev jsdoc
-          npx jsdoc “/Jest-UnitTests/subtraction.js”
+          npx jsdoc “./Jest-UnitTests/subtraction.js”
