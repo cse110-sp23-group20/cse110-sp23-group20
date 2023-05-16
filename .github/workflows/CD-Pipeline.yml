@@ -16,3 +16,11 @@ jobs:
         run: |
           npm install 
           npm test
+  JSDoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Run Tests
+        run: |
+          npm install --save-dev jsdoc
+          npx jsdoc “/Jest-UnitTests/subtraction.js”
