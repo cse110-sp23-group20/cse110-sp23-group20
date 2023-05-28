@@ -16,7 +16,7 @@
 
 - Chi Zhang
 
-- Brevin Gabrield
+- Brevin Gabriel
 
 - Joseph Burgos
 
